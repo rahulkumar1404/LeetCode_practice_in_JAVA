@@ -18,3 +18,8 @@
 #9 Move Zeroes.java
 
 ![image](https://user-images.githubusercontent.com/84653100/164063707-d9315def-227d-4ca5-a5e8-83c68dff3c53.png)
+
+
+Q10 Rotate Array.java
+
+![image](https://user-images.githubusercontent.com/84653100/164751874-5787179d-afcf-40eb-88bd-c4b555d3ebdb.png)
