@@ -23,3 +23,9 @@
 Q10 Rotate Array.java
 
 ![image](https://user-images.githubusercontent.com/84653100/164751874-5787179d-afcf-40eb-88bd-c4b555d3ebdb.png)
+
+
+Q11 Check if Array Is Sorted and Rotated.java
+
+
+![image](https://user-images.githubusercontent.com/84653100/164882617-d92cc4cd-58e3-4ba1-a722-187e59479e75.png)
